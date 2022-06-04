@@ -1,5 +1,7 @@
 <!-- ### Hi there 👋 -->
-# 👋 Hello, this is my self-introduction
+> 123
+# 👋 Hello, nice to meet you
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=creamray&theme=dracula&show_icons=true)](https://github.com/creamray/creamray)
 
@@ -13,6 +15,13 @@
 
 
 ## 📮 Contact
+欢迎通过以下方式了解我
+> Blog: 这个人的博客暂时荒废了写不出东西
+> 
+> bilibili: https://space.bilibili.com/670041240
+>
+> 知乎: http://zhihu.com/people/creamray
+
 Mail: creamray@163.com
 
 ## ✨ Reference
