@@ -1,5 +1,4 @@
-### Hi there 👋
----
+<!-- ### Hi there 👋 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=creamray&theme=dracula&show_icons=true)](https://github.com/creamray/creamray)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creamray&repo=eduscan&theme=dracula&show_owner=true)](https://github.com/creamray/eduscan)
