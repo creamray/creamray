@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-> 123
 # 👋 Hello, nice to meet you
 
 
